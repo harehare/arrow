@@ -19,12 +19,6 @@ $ go install github.com/harehare/arrow@latest
 ```bash
 function ao() {
   cd $(arrow --icons)
-
-  local precmd
-  for precmd in $precmd_functions; do
-    $precmd
-  done
-  zle reset-prompt
 }
 ```
 
