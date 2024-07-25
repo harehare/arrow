@@ -10,7 +10,7 @@ require (
 	github.com/lrstanley/bubblezone v0.0.0-20230911164824-e3824f1adde9
 	github.com/muesli/termenv v0.15.2
 	github.com/samber/mo v1.13.0
-	github.com/urfave/cli/v2 v2.27.2
+	github.com/urfave/cli/v2 v2.27.3
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 )
 
@@ -32,7 +32,7 @@ require (
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
-	github.com/xrash/smetrics v0.0.0-20240312152122-5f08fbb34913 // indirect
+	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.21.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
