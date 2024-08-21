@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/charmbracelet/bubbles v0.19.0
 	github.com/charmbracelet/bubbletea v0.27.0
-	github.com/charmbracelet/lipgloss v0.12.1
+	github.com/charmbracelet/lipgloss v0.13.0
 	github.com/lithammer/fuzzysearch v1.1.8
 	github.com/lrstanley/bubblezone v0.0.0-20230911164824-e3824f1adde9
 	github.com/muesli/termenv v0.15.2
